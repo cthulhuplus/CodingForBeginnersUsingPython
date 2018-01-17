@@ -1,2 +1,2 @@
 # CodingForBeginnersUsingPython
-Exercises from the Codinf For Beginners Using Pythin Book
+Exercises from the Coding For Beginners Using Pythin Book
